@@ -1,4 +1,0 @@
-### Pipeline ETL com Python
-
-O objetivo é cruzar o arquivo de transações do Santander (dado interno no Excel - que aqui foram apenas dados aleatórios, não refletindo a situação real)
-com os valores das cotações das ações do Santander na bolsa, realizando o pipeline ETL necessário, para possibilitar futuras análises de correlação de performance do Santander e alta no mercado.
