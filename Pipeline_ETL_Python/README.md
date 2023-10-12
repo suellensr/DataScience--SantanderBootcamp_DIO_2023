@@ -1,1 +1,4 @@
-###AQUI VOU COLOCAR AS INFOS
+<h2>Entendendo o Desafio</h2>
+
+<h3>Desafio Original:</h3>
+O Desafio de Projeto (Lab) desenvolvido pelo professor Venilton Falvo Jr da DIO, consistia em 'Explorar IA Generativa em um Pipeline de ETL com Python', e pode ser visto aqui:  
