@@ -7,5 +7,5 @@ Repositório contendo os projetos desenvolvidos durante o Santander Bootcamp 202
 
 <div style "display: inline" align="center">
 <img width='150' height='150' src="/Imagens/Santander Dados Logo.webp">
-<img width='250' src="/Imaagens/logo DIO.webp">
+<img width='250' src="/Imagens/logo DIO.webp">
 </div>
