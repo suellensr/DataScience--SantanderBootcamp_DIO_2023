@@ -1,6 +1,6 @@
 ## Santander Bootcamp DIO
 
-Repositório contendo os projetos desenvolvidos durante o Santander Bootcamp 2023 - Ciência de Dados com a DIO.
+Este repositório contém os projetos desenvolvidos durante o Santander Bootcamp 2023 - Ciência de Dados com a DIO.
 <div align = "center">
 <img width='400' height='400' src="/Imagens/Santander Bootcamp Logo.webp">
 </div>
